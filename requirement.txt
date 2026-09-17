@@ -1,0 +1,6 @@
+streamlit>=1.36
+python-dotenv>=1.0
+langchain-core>=0.2
+langchain-community>=0.2
+langchain-groq>=0.1
+tavily-python>=0.3
